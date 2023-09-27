@@ -11,22 +11,24 @@ abstract class HewanTernak {
         $this->beratBadan = $beratBadan;
     }
 
-    function set_umur($n) {
+    public function set_umur($n) {
         $this->umur = $n;
     }
 
-    function set_beratBadan($n) {
-        $this->beratBadan - $n;
+    public function set_beratBadan($n) {
+        $this->beratBadan = $n;
+    }
+
+    public function getUmur() {
+        return $this->umur;
+    }
+
+    public function getBeratBadan() {
+        return $this->beratBadan;
     }
 
     public function bersuara() {
         echo "Hewan mengeluarkan suara <br>";
-    }
-}
-
-class sapi extends HewanTernak {
-    public function bersuara() {
-        echo "{$this->nama} mengeluarkan suara: Moo! <br>";
     }
 }
 
