@@ -1,0 +1,18 @@
+
+Di sebuah pedesaan terdapat peternakan yang bernama "Berkah Tani," ada beragam jenis hewan ternak yang unik dan lucu. Peternakan ini dikelola oleh seorang petani berbakat bernama Pak Agis. Petani ini sangat mencintai hewan-hewan ternaknya dan memberi nama pada setiap hewan dengan penuh kasih sayang.
+
+1. Pertama-tama, kita punya seekor sapi yang diberi nama "Sumbul". Sapi ini sudah berusia 5 tahun dan memiliki berat badan sebesar 500 kg. Saat Sumbul mengeluarkan suara, ia mengatakan "Moo!" dengan lantang.
+
+2. Selanjutnya, ada kambing yang bernama "Budi". Budi masih muda, berusia 3 tahun, dengan berat badan 80 kg. Ketika Budi bersuara, ia mengeluarkan suara "Mbek!" yang khas.
+
+3. Tidak jauh dari kandang kambing, ada ayam yang sangat aktif bernama "Jeki". Ayam ini masih muda, berusia 1 tahun, dengan berat badan 7 kg. Jeki merupakan salah satu penyumbang telur terbaik di peternakan ini, ia menghasilkan 2 butir telur setiap harinya. Ketika pagi tiba, Jeki dengan semangat mengeluarkan suara "Kukuruyuk!"
+
+4. Di tepi kolam, ada bebek yang ceria bernama "Ayu". Bebek ini berusia 2 tahun dan memiliki berat badan 12 kg. Ketika Ayu bersuara, ia membuat suara "Wek-wek!" yang membuat semua hewan di peternakan ini tersenyum.
+
+5. Terakhir, ada babi yang besar dan gemuk bernama "Lolita". Lolita sudah berusia 3 tahun dan memiliki berat badan sekitar 100 kg. Ketika Lolita bersuara, ia mengeluarkan suara "Ngok!" yang membuat siapa pun yang mendengarnya tertawa.
+
+Setiap hari, petani Pak Agis dengan penuh kasih sayang merawat hewan-hewan ini. Mereka adalah bagian penting dari kehidupan di peternakan "Berkah Tani," dan suara-suara mereka menjadi lagu alami yang mengiringi kebahagiaan petani dan hewan lainnya.
+
+Dengan begitu banyak hewan yang unik dan istimewa, peternakan "Berkah Tani" selalu menjadi tempat yang penuh keceriaan dan harmoni, di mana hewan-hewan ternak ini hidup dalam damai dan seimbang bersama petani mereka.
+
+Bantu Pak Agis untuk membuat program yang menampilkan Nama, Umur, Berat Badan, dan suara setiap hewan!
