@@ -7,6 +7,7 @@ This repository was created to fulfill the Object-Oriented Programming (OOP) cou
 3. Agis Muhammad Nursyam
 4. Qathrun Nada Annaqiya
 5. Vioretha Fitriani Taopik
+6. Muhammad Rama Wafiadin
 
 The assignment in the OOP course involves developing an application or project that applies object-oriented programming concepts. This repository will be used for collaboration, development, and documentation of the project.
 
@@ -20,5 +21,6 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi 
 - Agis Muhammad Nursyam
 - Qathrun Nada Annaqiya
 - Vioretha Fitriani Taopik
+- Muhammad Rama Wafiadin
 
 Tugas yang diberikan dalam mata kuliah PBO melibatkan pengembangan sebuah aplikasi atau proyek yang menerapkan konsep-konsep Pemrograman Berorientasi Objek. Repositori ini akan digunakan untuk berkolaborasi, mengembangkan, dan mendokumentasikan proyek tersebut.
